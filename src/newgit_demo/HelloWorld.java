@@ -6,6 +6,7 @@ public class HelloWorld {
 		
 		for (int i=10; i<20; i++) {
 			System.out.println("tt");
+			System.out.println(i);
 		}
 
 	}
